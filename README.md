@@ -1,3 +1,5 @@
+![logo](https://i.imgur.com/tLIpoQo.png)
+
 # [HordeBot](https://github.com/XdayronDev/HordeBot) 
 Un bot de Discord multipropósito con muchos NSFW y comandos divertidos, así como utilidad y moderación. 
 * Vaya a [] () para obtener una lista completa de comandos.
@@ -53,4 +55,3 @@ Tu token es lo que usas para iniciar sesión en el bot
 8. Pruebe el bot para ver si funciona escribiendo !ping y si el comando funciona, entonces ha completado todos los pasos correctamente..
 # Bien hecho!
 XdayronDev 
-https://i.imgur.com/tLIpoQo.png
