@@ -1,0 +1,24 @@
+{
+  "name": "hordebot",
+  "version": "5.0.0",
+  "description": "Bot Discord Creado por Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XdayronDev/HordeBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "musica"
+  ],
+  "author": "XdayronDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XdayronDev/HordeBot/issues"
+  },
+  "homepage": "https://github.com/XdayronDev/HordeBot#readme"
+}
